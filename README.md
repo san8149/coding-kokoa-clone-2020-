@@ -1,3 +1,3 @@
 #coding-kokoa-clone-2020
 
-study
+study more and more.

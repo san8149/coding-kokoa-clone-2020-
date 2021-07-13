@@ -15,7 +15,6 @@
 @import "components/alt-screen-header.css";
 @import "components/no-mobile.css";
 
-
 /* screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
@@ -30,6 +29,6 @@ body {
   height: 1000vh;
 }
 
-.main_screen{
-  padding:0px var(--horizontal-space)
+.main_screen {
+  padding: 0px var(--horizontal-space);
 }
